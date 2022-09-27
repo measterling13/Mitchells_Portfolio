@@ -41,3 +41,20 @@ p{
     width: 85px;
     height: 100px;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.work {
+    display: flex;
+    flex: wrap;
+    justify-content: right;
+}
+
+aside {
+    background-color: purple;
+    flex: 1;
+    text-align: center;
+}
