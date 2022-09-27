@@ -1,0 +1,16 @@
+*{margin:0;padding:0;outline:0;font-size:1em;font-weight:normal;font-style:normal;border:0;text-decoration:none;list-style-type:none}
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    color: red;
+    border-bottom: 5px solid grey;
+    padding: 40px;
+}
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+}
