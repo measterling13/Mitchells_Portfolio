@@ -58,3 +58,22 @@ aside {
     flex: 1;
     text-align: center;
 }
+
+.container {
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    text-align: center;
+}
+
+.container figure {
+  flex: 4;
+   border: 1px solid #444;
+   padding: 10px;
+}
+.container figure.first {
+    flex: 0 0 100%;
+    border: 1px solid #444;
+    padding: 20px;
+}
